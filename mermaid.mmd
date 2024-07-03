@@ -1,0 +1,38 @@
+graph TB
+    A[Create DNA Digital Data Storage File Format] --> B[Header Section]
+    A --> C[Data Section]
+    A --> D[Compression Section]
+    A --> E[Error Correction Section]
+    A --> F[Blockchain Enrollment Section]
+    
+    B --> B1[Format Version]
+    B --> B2[Metadata]
+    B --> B3[Original Data Hash]
+    B --> B4[Compression Algorithm]
+    B --> B5[Error Correction Algorithm]
+    
+    C --> C1[Chunked Data]
+    
+    D --> D1[Compressed Data]
+    
+    E --> E1[Error Correction Data]
+    
+    F --> F1[Proof-of-Work]
+    F1 --> F1_1[Nonce]
+    F1 --> F1_2[Hash]
+    F1 --> F1_3[Difficulty]
+    
+    classDef header fill:#f9f,stroke:#333,stroke-width:2px;
+    class B,B1,B2,B3,B4,B5 header;
+    
+    classDef data fill:#bbf,stroke:#333,stroke-width:2px;
+    class C,C1 data;
+    
+    classDef compression fill:#bfb,stroke:#333,stroke-width:2px;
+    class D,D1 compression;
+    
+    classDef errorCorrection fill:#fbb,stroke:#333,stroke-width:2px;
+    class E,E1 errorCorrection;
+    
+    classDef blockchain fill:#ffb,stroke:#333,stroke-width:2px;
+    class F,F1,F1_1,F1_2,F1_3 blockchain;
