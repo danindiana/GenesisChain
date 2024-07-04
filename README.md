@@ -3,7 +3,7 @@
 GenesisChain aims to be an OpenSource DNA file format that allows users to enroll any size genome into a proof-of-work blockchain using their own hardware while preserving privacy and enforcing chain-of-custody guarantees. 
 
 
-### DNA Digital Data Storage File Format
+### DNA Data Storage File Format
 
 1. **Header Section**
     - **Format Version**: Identifies the version of the file format.
