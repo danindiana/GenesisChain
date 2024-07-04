@@ -1,4 +1,4 @@
-![00086--52](https://github.com/danindiana/GenesisChain/assets/3030588/434c2901-08eb-43cb-8786-52b380f7547b)
+![00089--21](https://github.com/danindiana/GenesisChain/assets/3030588/30d4d979-243d-4ab5-8f68-e7fe8494711b)
 
 GenesisChain aims to be an OpenSource DNA file format that allows users to enroll any size genome into a proof-of-work blockchain using their own hardware while preserving privacy and enforcing chain-of-custody guarantees. 
 
