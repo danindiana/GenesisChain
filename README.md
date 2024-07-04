@@ -1,4 +1,4 @@
-Creating a DNA digital data storage file format involves several steps, including defining the structure of the data, how it will be chunked and compressed, and how error correction will be implemented. Below is a simplified overview of the file format, along with a hypothetical example for each section.
+GenesisChain aims to be an OpenSource DNA file format that allows users to enroll any size genome into a proof-of-work blockchain using their own hardware while preserving privacy and enforcing chain-of-custody guarantees. 
 
 ### DNA Digital Data Storage File Format
 
