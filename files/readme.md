@@ -1,4 +1,4 @@
-Certainly! Below are the example usage programs for each step, designed to be run on Ubuntu 22.04 with GNU bash, version 5.1.16(1)-release-(x86_64-pc-linux-gnu).
+Below are the example usage programs for each step, designed to be run on Ubuntu 22.04 with GNU bash, version 5.1.16(1)-release-(x86_64-pc-linux-gnu).
 
 ### Example Usage Programs
 
