@@ -1,0 +1,20 @@
+graph TD
+    A[DNA Data Storage File Format] --> B[Header Section]
+    A --> F[Data Section]
+    A --> I[Compression Section]
+    A --> K[Error Correction Section]
+    A --> M[Blockchain Enrollment Section]
+    
+    B --> C[Format Version: Identifies the version of the file format]
+    B --> D[Metadata: Information about the file, such as the creator, date, and source]
+    B --> E[Original Data Hash: A cryptographic hash of the original data for integrity verification]
+    B --> G[Compression Algorithm: Specifies the algorithm used for compression]
+    B --> H[Error Correction Algorithm: Specifies the algorithm used for error correction]
+    
+    F --> J[Chunked Data: The actual data divided into chunks for storage]
+    
+    I --> L[Compressed Data: The compressed representation of the chunked data]
+    
+    K --> N[Error Correction Data: Additional data for error detection and correction]
+    
+    M --> O[Proof-of-Work: Proof-of-work data for immutable blockchain enrollment]
