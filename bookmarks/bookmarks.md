@@ -1,3 +1,41 @@
+GenesisChain
+
+Sequence Surveyor | UW Graphics Group
+Genome Evolution Laboratory - Home
+Mauve
+DNA-based data storage via combinatorial assembly | bioRxiv
+DNA Data Storage
+DNA Data Storage | SNIA
+FASTQ files explained
+XAMPP Installers and Downloads for Apache Friends
+orta/dna: my dna in raw text
+Reference genome - Wikipedia
+Human Genome Overview - Genome Reference Consortium
+Human Genome Reference Sequence
+UCSC Genome Browser Gateway
+Genome Reference Consortium
+GENCODE - Human Release 46
+Sequence File Formats | FASTQ & BCL formats for Illumina sequencing
+Forensic DNA Open Dataset - Text File - Catalog
+Forensic DNA Open Dataset - Catalog
+How To Program Your DNA Using a Simple Text File | by Sean Everett | Humanizing Tech
+File Formats | DNASTAR
+Bioconductor Forum
+GATK
+MGH DNA Core
+R: Read DNA Sequences in a File
+Genome Browser FAQ
+Command Line: Converting File Formats – SnapGene Support
+Genomics | Join All of Us
+RootsChat.com Free Family History Forum
+Bioinformatic File Format & Their Use Cases | Form Bio
+DNA sequencing & Real-Time PCR
+No assembly required: Time for stronger, simpler publishing standards for DNA sequences | PLOS Biology
+The Generic Genome Browser: A Building Block for a Model Organism System Database
+API Key Management (unsure of where to start) - API - OpenAI Developer Forum
+FastAPI
+Services | EMBL’s European Bioinformatics Institute 
+
 https://graphics.cs.wisc.edu/Vis/SequenceSurveyor/SequenceSurveyor.html
 https://asap.ahabs.wisc.edu/
 https://darlinglab.org/mauve/mauve.html
